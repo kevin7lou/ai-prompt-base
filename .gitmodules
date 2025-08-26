@@ -10,6 +10,6 @@
 	path = sources/bmad-method
 	url = https://github.com/bmad-code-org/BMAD-METHOD.git
 
-[submodule "sources/agents"]
-	path = sources/agents
+[submodule "sources/wshobson-agents"]
+	path = sources/wshobson-agents
 	url = https://github.com/wshobson/agents.git

@@ -1,0 +1,15 @@
+[submodule "sources/awesome-claude-agents"]
+	path = sources/awesome-claude-agents
+	url = https://github.com/vijaythecoder/awesome-claude-agents.git
+
+[submodule "sources/claude-code-unified-agents"]
+	path = sources/claude-code-unified-agents
+	url = https://github.com/stretchcloud/claude-code-unified-agents.git
+
+[submodule "sources/bmad-method"]
+	path = sources/bmad-method
+	url = https://github.com/bmad-code-org/BMAD-METHOD.git
+
+[submodule "sources/agents"]
+	path = sources/agents
+	url = https://github.com/wshobson/agents.git

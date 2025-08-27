@@ -13,3 +13,6 @@
 [submodule "sources/wshobson-agents"]
 	path = sources/wshobson-agents
 	url = https://github.com/wshobson/agents.git
+[submodule "sources/iannuttall-claude-agents"]
+	path = sources/iannuttall-claude-agents
+	url = https://github.com/iannuttall/claude-agents.git

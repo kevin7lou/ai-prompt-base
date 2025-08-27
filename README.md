@@ -24,6 +24,7 @@ ai-prompt-base/
 - [claude-code-unified-agents](https://github.com/stretchcloud/claude-code-unified-agents)
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 - [agents](https://github.com/wshobson/agents)
+- [claude-agents](https://github.com/iannuttall/claude-agents)
 
 ## 快速开始
 
